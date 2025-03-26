@@ -1,0 +1,16 @@
+.container {
+  margin: 0 auto;
+  padding: 0 50px;
+  box-sizing: border-box;
+}
+.header-wrapper {
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+}
+.header-main {
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+  gap: 40px;
+}
