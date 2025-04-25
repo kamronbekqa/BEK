@@ -1,1 +1,41 @@
 
+header{
+  display: flex;
+  justify-content: space-around;
+}
+a{
+  color: black;
+
+}
+img{
+  width: 739px;
+height: 432px;
+top: 182px;
+left: 702px;
+
+}
+.div{
+  display: flex;
+  align-items: center;
+  justify-content: space-around;
+  margin-top: 50px;
+}
+.left{
+  width: 500px;
+}
+button{
+  width: 195px;
+height: 53px;
+top: 561px;
+left: 119px;
+border-radius: 40px;
+background: linear-gradient(92.48deg, #FA8305 2.08%, #FB9E3C 117.25%);
+border: none;
+
+
+}
+.dii{
+  background-color: bisque;
+  width: 100%;
+  height: 700px;
+}
